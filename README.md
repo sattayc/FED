@@ -40,11 +40,11 @@ Responsive
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Homepage
-  <img src="readme-images/homepagina.jpg" width="375px" alt="screenshot van homepagina">
+  <img src="readme-images/homepagina.png" width="375px" alt="screenshot van homepagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   About us
-  <img src="readme-images/overons-pagina.jpg" width="375px" alt="screenahot van over ons pagina">
+  <img src="readme-images/overons-pagina.png" width="375px" alt="screenahot van over ons pagina">
  
 </details>
 
