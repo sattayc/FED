@@ -39,11 +39,11 @@ Responsive
   https://www.dunkin.nl/nl/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  Homepage
+  Homepage<br>
   <img src="readme-images/homepagina.png" width="375px" alt="screenshot van homepagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  About us
+  About us<br>
   <img src="readme-images/overons-pagina.png" width="375px" alt="screenahot van over ons pagina">
  
 </details>
@@ -91,14 +91,14 @@ Responsive
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  Het is mij gelukt om html te schrijven, maar het is nog voor mij moeilijk om de header responsive te maken, want nu gaat de kleur van de header niet mee als het scherm kleiner wordt, ook de laatste twee link van header moet ook helemaal aan het einde zijn apart van anderen.
-  <img src="readme-images/eerste-site.png" width="375px" alt="grote scherm homepagina voor eerste voortgang gesprek">
+  Het is mij gelukt om html te schrijven, maar het is nog voor mij moeilijk om de header responsive te maken, want nu gaat de kleur van de header niet mee als het scherm kleiner wordt, ook de laatste twee link van header moet ook helemaal aan het einde zijn apart van anderen. Link naar github: https://sattayc.github.io/dunkin/ 
+  <br><img src="readme-images/eerste-site.png" width="375px" alt="grote scherm homepagina voor eerste voortgang gesprek">
   <img src="readme-images/eerste-site2.png" width="375px" alt="kleine scherm homepagina voor eerste voortgang gesprek">
   <img src="readme-images/code1.png" width="375px" alt="html van homepagina 1/3">
   <img src="readme-images/code2.png" width="375px" alt="html van homepagina 2/3">
   <img src="readme-images/code3.png" width="375px" alt="html van homepagina 3/3">
   <img src="readme-images/code4.png" width="375px" alt="css codes">
-  
+
   ### Agenda voor meeting
   samen met je groepje opstellen
 
