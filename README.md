@@ -56,7 +56,11 @@ Responsive
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
+  De screenreader kan geen afbeelding aflezen, alt is leeg.
+  De woorden die in de afbeeldingen zijn, kunnen niet afgelezen worden door screenreader.
+  De gebruikers kunnen niet weten wat voor afbeelding het is of wat erin staat.
+  Geen logische heading-hiërachie
+  Er staat geen skip link, dus de gebruikers kunnen niet meteen naar de main content skippen.
 
 </details>
 
@@ -68,13 +72,12 @@ Responsive
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/homepagina.jpg" width="375px" alt="breakdown van de homepagina">
+  <img src="readme-images/over-onspagina.jpg" width="375px" alt="breakdown van de over ons pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="readme-images/dynamische-deel.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
@@ -88,9 +91,14 @@ Responsive
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
-
+  Het is mij gelukt om html te schrijven, maar het is nog voor mij moeilijk om de header responsive te maken, want nu gaat de kleur van de header niet mee als het scherm kleiner wordt, ook de laatste twee link van header moet ook helemaal aan het einde zijn apart van anderen.
+  <img src="readme-images/eerste-site.png" width="375px" alt="grote scherm homepagina voor eerste voortgang gesprek">
+  <img src="readme-images/eerste-site2.png" width="375px" alt="kleine scherm homepagina voor eerste voortgang gesprek">
+  <img src="readme-images/code1.png" width="375px" alt="html van homepagina 1/3">
+  <img src="readme-images/code2.png" width="375px" alt="html van homepagina 2/3">
+  <img src="readme-images/code3.png" width="375px" alt="html van homepagina 3/3">
+  <img src="readme-images/code4.png" width="375px" alt="css codes">
+  
   ### Agenda voor meeting
   samen met je groepje opstellen
 
