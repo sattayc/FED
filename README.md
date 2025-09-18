@@ -104,18 +104,16 @@ Responsive
 
   | student 1      | student 2          | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | breakdown      | html bestand       | en ik dit    | en dan ik dat    |
+  | schetsen       | checken            | nog een punt | dit wil ik zeker |
+  | bekijken       |                    | ...          | ...              |
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Ik heb html bestand goed geschreven.
+  - Ik zit in de goede richting.
 
 </details>
 
@@ -129,7 +127,10 @@ Responsive
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik vond css leuk omdat ik mijn schermen mooier kan maken, maar het is nog ingewikkeld om de codes te begrijpen en toepassen in mijn website.
+  <img src="readme-images/week2-ss.png">
+  De header vond ik best ingewikkeld en het lukte me nog niet helemaal om precies de originele site na te kunnen maken, met hulp van docent (Vasilis) kwam ik tot zo ver, ik ga nog proberen om de rest af te maken. 
+  De body stukje was ook moeilijk, maar dank aan hulp van studentenasistent heb ik de codes kunnen toepassen in mijn website en nu ziet er best wel goed uit. Voor de rest vond ik de oefenopdrachten best wel te doen, hamburger menu opdracht was ook handig en die kan ik in mijn website toepassen.
 
 
   ### Agenda voor meeting
@@ -137,9 +138,9 @@ Responsive
 
   | student 1      | student 2          | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | hoe kan ik zo  | en dit             | en ik dit    | en dan ik dat    |
+  | min mogelijk   | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | class gebruiken?| ...                | ...          | ...              |
 
 
   ### Verslag van meeting
