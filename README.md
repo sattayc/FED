@@ -146,10 +146,10 @@ Responsive
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  - In plaats van class kan ik nth-of-type gebruiken, dit vind ik super handig
+  - Ik zit in de goede richting met de codes
+  - Ik heb mijn hamburger menu kunnen toepassen
+
 
 </details>
 
@@ -163,8 +163,11 @@ Responsive
   <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
-
+  Er bestaat focus bij elke link en de screen reader kan de afbeelding ook beter aflezen door de alt die ik heb geschreven.
+  Ik heb dark en light mode toegevoegd, ook kunnen de gebruikers de animaties uitzetten als ze het niet willen.
+  Bij de afbeeldingen kan de screen reader goed voorlezen, met al de details dat de gebruikers met visuele beperking kunnen meedenken wat voor plaatjes er zijn, bij de vorige werd het gewoon geskipt dus de gebruikers missen deze informatie.
+  Bij de vorige is er geen skip link maar deze keer wel, het is toegangelijker voor de toetsenbord gebruikers die meteen naar de main content kunnen gaan.
+  <img src="readme-images/week4.png">
 </details>
 
 
@@ -177,8 +180,9 @@ Responsive
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+  Ik heb mijn website responsive kunnen maken: scherm grootte, reduce animation, skip link, dark mode.
+  Vervolgens heb ik de requested formulier ook kunnen toevoegen, dus als je requested veld niet hebt ingevuld krijg je trigger wanneer je op submit button klikt, en als je niet goed hebt ingevuld is de border van die veld rood, als het goed is dan groen.
+  Ik heb grid ook gebruikt bij beide pagina.
 
   ### Agenda voor meeting
   samen met je groepje opstellen
@@ -238,8 +242,8 @@ Responsive
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. https://www.gxsoftware.com/nl/blog/zo-zet-je-skiplinks-in-op-je-website
+  2. https://css-tricks.com/dark-modes-with-css/
+  3. https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion
 
 </details>
