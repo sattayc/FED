@@ -167,7 +167,7 @@ Responsive
   Ik heb dark en light mode toegevoegd, ook kunnen de gebruikers de animaties uitzetten als ze het niet willen.
   Bij de afbeeldingen kan de screen reader goed voorlezen, met al de details dat de gebruikers met visuele beperking kunnen meedenken wat voor plaatjes er zijn, bij de vorige werd het gewoon geskipt dus de gebruikers missen deze informatie.
   Bij de vorige is er geen skip link maar deze keer wel, het is toegangelijker voor de toetsenbord gebruikers die meteen naar de main content kunnen gaan.
-  <img src="readme-images/week4.png">
+ 
 </details>
 
 
@@ -183,7 +183,7 @@ Responsive
   Ik heb mijn website responsive kunnen maken: scherm grootte, reduce animation, skip link, dark mode.
   Vervolgens heb ik de requested formulier ook kunnen toevoegen, dus als je requested veld niet hebt ingevuld krijg je trigger wanneer je op submit button klikt, en als je niet goed hebt ingevuld is de border van die veld rood, als het goed is dan groen.
   Ik heb grid ook gebruikt bij beide pagina.
-
+ <img src="readme-images/week4.png">
   ### Agenda voor meeting
   samen met je groepje opstellen
 
